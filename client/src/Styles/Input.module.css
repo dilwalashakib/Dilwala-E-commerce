@@ -1,0 +1,18 @@
+.inputGroup {
+    width: 100%;
+    padding: .6rem 0;
+}
+.inputGroup label {
+    display: block;
+    padding: .5rem 0;
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+.inputGroup input {
+    box-sizing: border-box;
+    width: 100%;
+    padding: .7rem;
+    border-radius: .8rem;
+    font-size: 1.2rem;
+    font-weight: 400;
+}

@@ -1,0 +1,23 @@
+.search input {
+    box-sizing: border-box;
+    padding: .8rem 2rem;
+    font-size: 1.2rem;
+    border-radius: 1rem;
+    border: 2px solid rgb(255, 251, 0);
+}
+
+.search button {
+    color: whitesmoke;
+    margin-left: -12%;
+    padding: .4rem .5rem;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.search button:hover {
+    color: white;
+    background-color: blue;
+    border: 2px solid blue;
+}
+.search button i {
+    font-size: 1.2rem;
+}

@@ -1,0 +1,13 @@
+.shipping {
+    padding: 6rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.shippingContainer {
+    width: 60%;
+}
+.btn {
+    margin-top: 1rem;
+}

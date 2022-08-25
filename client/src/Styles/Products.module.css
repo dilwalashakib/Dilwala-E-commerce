@@ -1,0 +1,33 @@
+.productContainer {
+    padding-top: 5rem;
+    text-align: center;
+}
+.disable {
+  background-color: rgba(177, 175, 175, 0.349);
+  border: none;
+  cursor: no-drop;
+}
+.disable:hover {
+  background-color: rgba(177, 175, 175, 0.349);
+  border: none;
+  cursor: no-drop;
+}
+.products {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  .product {
+    width: 22%;
+    background-color: rgba(236, 149, 43, 0.041);
+    border: 1px solid #ffc000;
+    margin: 1rem;
+  }
+  .product img {
+    width: 100%;
+    max-width: 400px;
+  }
+  .productInfo {
+    padding: 1rem;
+  }

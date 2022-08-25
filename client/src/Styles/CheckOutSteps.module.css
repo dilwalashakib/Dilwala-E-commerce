@@ -1,0 +1,12 @@
+.stepContainer {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.stepContainer > div {
+    border-bottom: 0.4rem solid grey;
+    padding: 1rem 6rem;
+}
+.stepContainer > div.active {
+    border-bottom: 0.4rem solid rgb(255, 5, 243);
+}
